@@ -1,0 +1,5 @@
+ja:
+  errors:
+    messages:
+      aspect_ratio_is_not: "のアスペクト比は %{aspect_ratio} にしてください"
+      aspect_ratio_unknown: "のアスペクト比を取得できませんでした"

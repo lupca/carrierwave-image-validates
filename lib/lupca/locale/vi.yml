@@ -1,0 +1,5 @@
+vi:
+  errors:
+    messages:
+      aspect_ratio_is_not: "phải có tỉ lệ ảnh %{aspect_ratio}"
+      aspect_ratio_unknown: "tỉ lệ ảnh không xác định"
