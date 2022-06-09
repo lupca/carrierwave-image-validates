@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.version            = "0.0.1"
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Dang Thanh Tung"]
-  s.date = %q{2022-06-08}
+  s.date = %q{2022-06-09}
   s.description = %q{A validate image ratio gem for carrierwave}
   s.email = %q{dangthanhtung.open@gmail}
   s.files = Dir['{app,config,db,lib}/**/*', 'MIT-LICENSE', 'Rakefile', 'README.md' ]
